@@ -6,15 +6,24 @@ I can grow as a software engineer and make meaningful contributions to cutting-e
 
  😄 Pronouns: She/her
  
-Skills:
+Skills: 
+
 Languages: JavaScript, Python, C++, GoLang, Lisp
+
 Web Technologies: HTML, CSS, React, Node.js
+
 Databases: MySQL, MongoDB
+
 Tools: Git, VS Code
+
 Education
+
 Bachelor of Science in Computer Science, University of California Davis
 
+
 Contact:
+
 Email: bhvpatel@ucdavis.edu
+
 LinkedIn: https://www.linkedin.com/in/bhavipatel4826/
 
