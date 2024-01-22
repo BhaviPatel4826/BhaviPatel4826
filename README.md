@@ -2,9 +2,6 @@
 
  😄 Pronouns: She/her
 
-<!--
-**BhaviPatel4826/BhaviPatel4826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a recent computer science graduate with a strong passion for software development 
 and a desire to contribute to innovative projects. During my studies, I gained a solid 
 foundation in computer science principles, programming languages, and software development 
