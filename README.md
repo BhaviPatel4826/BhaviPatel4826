@@ -1,13 +1,11 @@
- Hi there 👋, I'm Bhavi Patel
-
- 😄 Pronouns: She/her
-
-I am a recent computer science graduate with a strong passion for software development 
+ Hi there 👋, I'm Bhavi Patel. I am a recent computer science graduate with a strong passion for software development 
 and a desire to contribute to innovative projects. During my studies, I gained a solid 
 foundation in computer science principles, programming languages, and software development 
 methodologies. I am eager to apply my knowledge and skills in a professional setting where 
 I can grow as a software engineer and make meaningful contributions to cutting-edge technologies.
 
+ 😄 Pronouns: She/her
+ 
 Skills:
 Languages: JavaScript, Python, C++, GoLang, Lisp
 Web Technologies: HTML, CSS, React, Node.js
