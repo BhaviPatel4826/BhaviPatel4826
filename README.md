@@ -8,9 +8,9 @@ I can grow as a software engineer and make meaningful contributions to cutting-e
  
 :computer: Skills: 
 
-    Languages: JavaScript, Python, C++, GoLang, Lisp
+    Languages: JavaScript, Python, C++, PHP, GoLang, Lisp
     
-    Web Technologies: HTML, CSS, React, Node.js
+    Web Technologies: HTML, CSS, React, Node.js, Vue.js
     
     Databases: MySQL, MongoDB
     
@@ -23,7 +23,7 @@ I can grow as a software engineer and make meaningful contributions to cutting-e
 
 Contact:
 
-    Email: bhvpatel@ucdavis.edu
+    Email: bhavi4826@gmail.com
     
     LinkedIn: https://www.linkedin.com/in/bhavipatel4826/
 
